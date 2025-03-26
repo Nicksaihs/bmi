@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\bmi\bmi\bin\Debug\net7.0-windows\bmi.exe
+C:\Users\User\Desktop\bmi\bmi\bin\Debug\net7.0-windows\bmi.deps.json
+C:\Users\User\Desktop\bmi\bmi\bin\Debug\net7.0-windows\bmi.runtimeconfig.json
+C:\Users\User\Desktop\bmi\bmi\bin\Debug\net7.0-windows\bmi.dll
+C:\Users\User\Desktop\bmi\bmi\bin\Debug\net7.0-windows\bmi.pdb
+C:\Users\User\Desktop\bmi\bmi\obj\Debug\net7.0-windows\bmi.Form1.resources
+C:\Users\User\Desktop\bmi\bmi\obj\Debug\net7.0-windows\bmi.csproj.GenerateResource.cache
+C:\Users\User\Desktop\bmi\bmi\obj\Debug\net7.0-windows\bmi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\bmi\bmi\obj\Debug\net7.0-windows\bmi.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\bmi\bmi\obj\Debug\net7.0-windows\bmi.AssemblyInfo.cs
+C:\Users\User\Desktop\bmi\bmi\obj\Debug\net7.0-windows\bmi.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\bmi\bmi\obj\Debug\net7.0-windows\bmi.dll
+C:\Users\User\Desktop\bmi\bmi\obj\Debug\net7.0-windows\refint\bmi.dll
+C:\Users\User\Desktop\bmi\bmi\obj\Debug\net7.0-windows\bmi.pdb
+C:\Users\User\Desktop\bmi\bmi\obj\Debug\net7.0-windows\bmi.genruntimeconfig.cache
+C:\Users\User\Desktop\bmi\bmi\obj\Debug\net7.0-windows\ref\bmi.dll
